@@ -16,3 +16,13 @@
 
 > 💡 There are a lot of commands for any sort of action you want to perform check out
 > [this cheat cheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) to look up important commands.
+
+
+---
+---
+---
+*[git cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet/)*
+---
+---
+---
+---
